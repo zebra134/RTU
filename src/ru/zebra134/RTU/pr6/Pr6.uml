@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>ru.u2r3y.java1.Pr6</OriginalElement>
+  <nodes>
+    <node x="150.625" y="586.0">ru.u2r3y.java1.Pr6.Main</node>
+    <node x="225.0" y="67.0">ru.u2r3y.java1.Pr6.Movable</node>
+    <node x="390.0" y="22.0">ru.u2r3y.java1.Pr6.Rectangle</node>
+    <node x="71.625" y="304.0">ru.u2r3y.java1.Pr6.MovableRectangle</node>
+    <node x="0.0" y="0.0">ru.u2r3y.java1.Pr6.MovablePoint</node>
+    <node x="-218.50746268656712" y="308.07462686567163">ru.u2r3y.java1.Pr6.MovableCircle</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="ru.u2r3y.java1.Pr6.Main" target="ru.u2r3y.java1.Pr6.MovableRectangle">
+      <point x="-37.5" y="-27.0" />
+      <point x="188.125" y="561.0" />
+      <point x="148.625" y="561.0" />
+      <point x="-77.0" y="116.0" />
+    </edge>
+    <edge source="ru.u2r3y.java1.Pr6.MovableRectangle" target="ru.u2r3y.java1.Pr6.MovablePoint">
+      <point x="-115.5" y="-116.0" />
+      <point x="110.125" y="279.0" />
+      <point x="51.25" y="279.0" />
+      <point x="-51.25" y="127.0" />
+    </edge>
+    <edge source="ru.u2r3y.java1.Pr6.MovableRectangle" target="ru.u2r3y.java1.Pr6.Rectangle">
+      <point x="115.5" y="-116.0" />
+      <point x="341.125" y="279.0" />
+      <point x="530.0" y="279.0" />
+      <point x="0.0" y="105.0" />
+    </edge>
+    <edge source="ru.u2r3y.java1.Pr6.MovableRectangle" target="ru.u2r3y.java1.Pr6.Movable">
+      <point x="38.5" y="-116.0" />
+      <point x="264.125" y="279.0" />
+      <point x="297.5" y="279.0" />
+      <point x="0.0" y="60.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.73224043715847" x="335.0" y="447.5" />
+  <SelectedNodes>
+    <node>ru.u2r3y.java1.Pr6.MovableCircle</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Properties</Category>
+    <Category>Methods</Category>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
